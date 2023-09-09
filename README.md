@@ -13,5 +13,5 @@ This project uses data from [DQLab Live Class Data Analyst with SQL & Python Boo
 <a href="https://drive.google.com/file/d/1zMvWZsRs4ft9J_OaoOatmey83X7uc0vp/view?usp=sharing"> SuperStore Sales Review </a>
 
 ## Data Visualization
-![SuperStore_Dashboard](https://drive.google.com/file/d/14_8nPkkaJKW5fnJmPUZybnU79oFTRCme/view?usp=sharing)
+![SuperStore_Dashboard!](assets/iamges/SuperStore-sales-review.PNG "SuperStore Sales Review 2017 - 2020")
 - <a href="https://lookerstudio.google.com/reporting/e7539802-b112-4cd4-86ad-c78a6ec5e09b"> SuperStore Sales Review 2017 - 2020 | Looker Studio </a>
