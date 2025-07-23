@@ -10,7 +10,7 @@ This project uses data from [DQLab Live Class Data Analyst with SQL & Python Boo
 - Create an interactive dashboard to provide a comprehensive to display big picture of the sales and profit within the SuperStore dataset.
 
 ## Deck
-<a href="https://drive.google.com/file/d/1zMvWZsRs4ft9J_OaoOatmey83X7uc0vp/view?usp=sharing"> SuperStore Sales Review </a>
+<a href="https://docs.google.com/presentation/d/1RDvdEEFdRWL2AtYE1Z_BNnPrd2QzEqFT/edit?usp=sharing&ouid=113922213290016669787&rtpof=true&sd=true"> SuperStore Sales Review </a>
 
 ## Data Visualization
 ![SuperStore_Dashboard](https://github.com/abliskan/Superstore-Sales-Analysis/blob/main/asset/images/SuperStore-sales-review.PNG)
